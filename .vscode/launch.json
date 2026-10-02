@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stackFrame",
+            "request": "launch",
+            "mainClass": "stackFrame",
+            "projectName": "java_4bbdaf11"
+        },
+        {
+            "type": "java",
+            "name": "time",
+            "request": "launch",
+            "mainClass": "time",
+            "projectName": "java_4bbdaf11"
+        },
+        {
+            "type": "java",
             "name": "ascii",
             "request": "launch",
             "mainClass": "ascii",
